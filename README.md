@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![][./images/screenshot.jpg]
+![] [./screenshot.jpg]
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Digibloc/FEM-Qr-Code)
+- Solution URL: [FEM Qr-code](https://github.com/Digibloc/FEM-Qr-Code)
 
 ## My process
 
@@ -71,9 +71,9 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Add your name here](https://www.lewistech.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Digibloc)
-- Twitter - [@yourusername](https://www.twitter.com/lewistech)
+- Website - [lewistech.co.ke](https://www.lewistech.co.ke)
+- Frontend Mentor - [Digibloc](https://www.frontendmentor.io/profile/Digibloc)
+- Twitter - [@lewistech ke](https://www.twitter.com/lewistech)
 
 ## Acknowledgments
 
